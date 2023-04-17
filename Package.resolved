@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/samalone/GeoKit.git",
       "state" : {
-        "revision" : "b6afc9d808d7e2da7052dd028004e9b64d09b89a",
-        "version" : "2.2.0"
+        "branch" : "users",
+        "revision" : "0768670d7ec41b924e49f37b322e9d2be175a362"
       }
     },
     {

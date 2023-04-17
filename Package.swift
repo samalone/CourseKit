@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/samalone/GeoKit.git", from: "2.0.0"),
+        .package(url: "https://github.com/samalone/GeoKit.git", branch: "users"),
         .package(url: "https://github.com/samalone/vapor-lingua-franca.git", branch: "main"),
         .package(url: "https://github.com/vapor/jwt.git", from: "4.0.0"),
     ],
